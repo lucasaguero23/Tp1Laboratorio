@@ -1,8 +1,8 @@
-body{
-    background-color: #112;
-    
-}
-
-h1{
-    color: #fff0ff;
+body {
+    background-color: #3a3a3a;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 0;
+    font-family:cursive;
 }
