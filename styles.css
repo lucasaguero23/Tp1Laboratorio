@@ -73,3 +73,23 @@ body {
     box-sizing: border-box;
 
 }
+
+.apartados h2 {
+    margin: 0 0 10px;
+    color: #333;
+}
+
+.apartados ul, .apartados ol {
+    margin: 0;
+    padding-left: 20px;
+    color: #555;
+}
+
+.apartados p, .apartados a {
+    color: #555;
+}
+
+.apartados a {
+    text-decoration: none;
+    color:blue;
+}
