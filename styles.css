@@ -23,3 +23,10 @@ body {
     align-items: center;
     box-sizing: border-box;
 }
+
+#header {
+    display: flex;
+    align-items: center;
+    margin-bottom: 30px; 
+    width: 100%;
+}
