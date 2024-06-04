@@ -56,3 +56,12 @@ body {
     margin: 5px 0 0;
     color: #777;
 }
+
+.secciones {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    width: 100%;
+    justify-content: space-around; 
+    align-items: flex-start;
+}
