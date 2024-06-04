@@ -30,3 +30,12 @@ body {
     margin-bottom: 30px; 
     width: 100%;
 }
+
+.imagenPerfil {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    border: 2px solid #cfcfcf;
+    box-shadow: 0 0 20px rgb(0, 0, 0);
+}
+
