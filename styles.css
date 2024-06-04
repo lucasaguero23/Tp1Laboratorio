@@ -7,15 +7,6 @@ body {
     font-family:cursive;
 }
 
-#pagina {
-    background-color: #3a3a3a;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    width: 100%;
-    height: 100%;
-}
-
 .contenedor {
     width: 100%;
     max-width: 800px; 
