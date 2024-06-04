@@ -112,3 +112,17 @@ body {
     text-decoration: underline;
 }
 
+/*Esta es la animacion que saque de internet*/
+
+@keyframes fadeIn {
+    from {
+        filter: blur(10px);
+        opacity: 0;
+    }
+    to {
+        filter: blur(0);
+        opacity: 1;
+    }
+}
+
+
