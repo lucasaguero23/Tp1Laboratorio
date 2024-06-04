@@ -93,3 +93,10 @@ body {
     text-decoration: none;
     color:blue;
 }
+
+.apartados #icono {
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+    margin-right: 8px;
+}
